@@ -1,3 +1,4 @@
+# STAR-schema-StackOverFlow-Analysis-
 Stack Over Flow Analysis: it's a college project in Data warehouse subject...
 data warehousing project on Stack Over Flow data set analyzed the data set to multiple dimensions, made a star 
 schema, ERD and built cube for the analysis services, applied mdx queries on cube and provide insights on charts
