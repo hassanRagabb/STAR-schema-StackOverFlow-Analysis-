@@ -1,8 +1,6 @@
-# STAR-schema-StackOverFlow-Analysis
-Stack Over Flow Analysis: 
-data warehousing project on Stack Over Flow data set analyzed the data set to multiple dimensions, made a star 
-schema, ERD and built cube for the analysis services, applied mdx queries on cube and provide insights on charts
-in order to analyses and count the number of posts and comments that a user made at a certain time and in 
-a specific location on a specific topic. We'd be able to examine how users interact with one another in 
-a published challenge over a period of time. The fact table allows us to examine each user's actions over time. 
-developed using SQL server, visual studio and Microsoft excel
+### STAR-schema-StackOverFlow-Analysis
+-	Conducted a data warehousing project using the Stack Overflow dataset, analyzing across multiple dimensions and creating a star schema.
+-	Designed an Entity-Relationship Diagram (ERD) and developed a data cube for analysis services.
+-	Applied MDX queries on the cube to generate insights, visualizing data through charts to analyze and count posts and comments at specific times, locations, and topics, and examined how users interact with one another and their actions over time during published challenges using the fact table.
+###	Developed using SQL Server, Visual Studio, Microsoft Excel, and Tableau.
+
